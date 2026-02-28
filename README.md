@@ -17,4 +17,4 @@ Tenho familiaridade com Python e interesse em Go.
 </div>
 
 ### Contato
-Email: [matheusviolss@gmail.com](matheusviolss@gmail.com)
+Email: <a href="matheusviolss@gmail.com">matheusviolss@gmail.com</a> 
