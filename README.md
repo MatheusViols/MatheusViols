@@ -1,9 +1,8 @@
 ### Sobre
-Me chamo **Matheus Vinícius**, tenho **18 anos** e sou de **Recife-PE**
+Me chamo **Matheus Vinícius**, tenho **19 anos** e sou de **Recife-PE**
 
-Estou no terceiro período de Análise e Desenvolvimento de Sistemas, atualmente foco meus estudos em desenvolvimento Backend Java, mas tenho forte interesse em aprender novas tecnologias que possam expandir meu repertório. 
+Sou estudante de Análise e Desenvolvimento de Sistemas, tenho conhecimentos em desenvolvimento Backend Python e Java, mas tenho forte interesse em aprender novas tecnologias que possam expandir meu repertório. 
 
-Tenho familiaridade com Python e interesse em Go.
 
 ### Caixa de Ferramentas
 <div style="display: flex;" >
